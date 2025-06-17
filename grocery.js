@@ -1,4 +1,4 @@
-alert("amit Kashyap")
+
 let seachForm = document.querySelector('.search-form');
 
 
