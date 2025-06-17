@@ -1,7 +1,4 @@
-
 let seachForm = document.querySelector('.search-form');
-
-
 document.querySelector('#search-btn').onclick = () =>
     {
         seachForm.classList.toggle('active');
